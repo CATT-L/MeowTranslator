@@ -1,5 +1,11 @@
 # 喵音译者
 
+功能演示
+
+https://catt-l.github.io/MeowTranslator/
+
+
+
 采用JavaScript实现, 与兽音译者同样的算法, 不过转换字符改成了`喵呜啊~`, 兽音译者也可以自定义字符, 因此完全可以相互兼容
 
 
